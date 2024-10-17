@@ -1,4 +1,4 @@
-# Optimized-Vector
+# Optimized Vector
 
 ## Overview
 
